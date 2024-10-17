@@ -52,7 +52,7 @@ Don’t forget to tag us in your photos with your NoorGlare eyewear using **#Noo
 
 ### 🌐 Ready to Shine? Visit Us Today!
 
-👉 [Shop Now](https://noorglare.shop)
+👉 [**Shop Now**](https://noorglare.shop) 👈
 
 ---
 
