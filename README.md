@@ -1,6 +1,6 @@
 # 🌟 NoorGlare: Your Ultimate Eyewear Destination! 🌟
 
-![NoorGlare Banner](https://your-banner-image-link.com)  
+![Welcome to NoorGlare](https://github.com/inayatrahimdev/NoorGlare/blob/main/Screenshot%202024-10-17%20215526.png)
 
 ## 👓 Discover the World Through Stylish Lenses!
 
