@@ -61,10 +61,3 @@ Don’t forget to tag us in your photos with your NoorGlare eyewear using **#Noo
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-### 🛠️ Technologies Used
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python, Django (or any other technology you're using)
-- **Database**: PostgreSQL (or any other database)
-- **Deployment**: GitHub Pages
