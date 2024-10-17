@@ -1,6 +1,6 @@
 # 🌟 NoorGlare: Your Ultimate Eyewear Destination! 🌟
 
-![NoorGlare Banner](https://your-banner-image-link.com)  <!-- Replace with an actual banner image link -->
+![NoorGlare Banner](https://your-banner-image-link.com)  
 
 ## 👓 Discover the World Through Stylish Lenses!
 
@@ -41,7 +41,7 @@ We love hearing from you! If you have any questions or need assistance, feel fre
 
 - **Email**: [quicksubshop@gmail.com](mailto:quicksubshop@gmail.com)
 - **Instagram**: [@iinayat_mrwt](https://instagram.com/iinayat_mrwt)
-- **Phone**: +1 (800) 123-4567
+- **Phone**: +92 3165800166
 - **Follow Us**: [Instagram](https://instagram.com/noorglare) | [Facebook](https://facebook.com/noorglare)
 
 ### 🌟 Join the NoorGlare Family
